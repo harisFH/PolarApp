@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:34:18.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="9oxTv5E8oSBxorgcpj03" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:38:50.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="jwjA4jdt-wAXpfsA7qin" version="14.9.9" type="github">
   <diagram id="r9coZ3SHxbXu03hRXBzI" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,10 +258,10 @@
         <mxCell id="iYdBuN2wYEer2rM_jmkH-89" value="Your Message has been sent&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="920" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iYdBuN2wYEer2rM_jmkH-91" value="Player UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iYdBuN2wYEer2rM_jmkH-91" value="Player UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="18" width="202" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iYdBuN2wYEer2rM_jmkH-92" value="Coach UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iYdBuN2wYEer2rM_jmkH-92" value="Coach UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="420" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
